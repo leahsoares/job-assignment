@@ -1,0 +1,6 @@
+Data Analyst II (Required skills): Power BI, Tableau, Communication, SQL, Development
+Data Scientist (Required skills): Required; quantitative analysis, SQL, Python, Development
+Skills that appeared in both: SQL, Development
+What stood out to me: Depending on each job listing, there are many necessary skills or preferred skills. 
+I was surprised that R and Python were not as emphasized in both jobs, only one. 
+This means that data scientists with more experience in one program can find jobs that are more aligned with their skills
